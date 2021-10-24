@@ -2,7 +2,8 @@
  * Closest MinMax
  * Problem Description
  *
- * Given an array A. Find the size of the smallest subarray such that it contains atleast one occurrence of the maximum value of the array
+ * Given an array A. Find the size of the smallest subarray such that it contains atleast one 
+* occurrence of the maximum value of the array
  *
  * and atleast one occurrence of the minimum value of the array.
  *
